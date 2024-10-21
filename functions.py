@@ -1,4 +1,4 @@
-FILEPATH = r"C:\Users\rjeno\OneDrive\Desktop\PythonLearning\TODOMAIN.txt"
+FILEPATH = r"TODOMAIN.txt"
 
 
 # function makes function call
